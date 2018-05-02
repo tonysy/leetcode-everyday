@@ -16,7 +16,7 @@ Leetcode exercise records
 - Submit a solution:
     - `leetcode submit ./1.two-sum.py`
 
-## Leetcode history
-### 05.02
+## 2. Leetcode history
+### 2018.5.02
 - [1.two-sum.py](./1.two-sum.py)
 - []()
