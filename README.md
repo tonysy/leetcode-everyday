@@ -1,4 +1,4 @@
-# leetcode-everyday
+# leetcode-everyweek
 Leetcode exercise records
 
 ## 1. Use leetcode-cli to play with leetcode
@@ -16,11 +16,8 @@ Leetcode exercise records
 - Submit a solution:
     - `leetcode submit ./1.two-sum.py`
 
-## 2. Leetcode history
-### 2018.5.02
-- [1.two-sum.py](./1.two-sum.py)
-
+## 2. Leetcode week schedule
 
 |Week-1 | Problems | Solution | Knowledge | Language|
 |:----:| ------ |:------:|:---------:| ----- |
-|18/07/25| [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) <br> 66. <br>| [54.Spiral Matrix](./Python3/54.spiral-matrix.python3.md)<br> 66. <br>|Array |<ul><li>[x] Python3</li><li>[ ] Java</li><li>[ ] C++</li></ul>|
+|18/07/25| [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) <br> [66.Plus One](https://leetcode.com/problems/plus-one/description/) <br>| [54.Spiral Matrix](./Python3/54.spiral-matrix.python3.md)<br> [66.Plus One](./Python3/66.plus-one.python3.md)  <br>|Array |<ul><li>[x] Python3</li><li>[ ] Java</li><li>[ ] C++</li></ul>|
