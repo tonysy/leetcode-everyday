@@ -22,5 +22,5 @@ Leetcode exercise records
 
 
 |Week-1 | Problems | Solution | Knowledge | Language|
-|:----:| ------ |:------:|:---------:| ----- |:------:|
+|:----:| ------ |:------:|:---------:| ----- |
 |18/07/25| [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) <br> 66. <br>| [54.Spiral Matrix](./Python3/54.spiral-matrix.python3.md)<br> 66. <br>|Array |<ul><li>[ ] Python3</li><li>[ ] Java</li><li>[ ] C++</li></ul>|
