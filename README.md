@@ -18,10 +18,10 @@ Leetcode exercise records
 - Get latest submission:
     - `leetcode submission question_id`
 ### Group Links
-- [Yiliu Chenran-LeetcodeEveryweek](https://github.com/CRYL/leetcode-everyweek)
-- [Kai Zhang-LeetcodeEveryweek](https://github.com/nkai141119/leetcode-everyweek)
-- [Yifeng Wang-LeetcodeEveryweek]()
-
+- Yiliu Chenran [[Project]](https://github.com/CRYL/leetcode-everyweek)[[Leetcode]](https://leetcode.com/cryl/)
+- Kai Zhang [[Project]](https://github.com/nkai141119/leetcode-everyweek)[[Leetcode]](https://leetcode.com/nkai/)
+- Yifeng Wang [[Project]]()[[Leetcode]]()
+- Songyang Zhang [[Project]]()[[Leetcode]](https://leetcode.com/zsytony/)
 ## 2. Leetcode week schedule
 
 #### 2018 
