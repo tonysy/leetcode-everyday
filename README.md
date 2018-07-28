@@ -15,6 +15,12 @@ Leetcode exercise records
     - `leetcode test ./1.two-sum.py -t  '[2,7,11,15]\n9'`
 - Submit a solution:
     - `leetcode submit ./1.two-sum.py`
+- Get latest submission:
+    - `leetcode submission question_id`
+### Group Links
+- [Yiliu Chenran-LeetcodeEveryweek](https://github.com/CRYL/leetcode-everyweek)
+- [Kai Zhang-LeetcodeEveryweek](https://github.com/nkai141119/leetcode-everyweek)
+- [Yifeng Wang-LeetcodeEveryweek]()
 
 ## 2. Leetcode week schedule
 
